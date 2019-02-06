@@ -575,29 +575,8 @@ You should now be able to run the tests
 
 After you have fixed a bug or added a feature please also use the [CarrierWaveDirect Sample Application](https://github.com/dwilkie/carrierwave_direct_example) to ensure that the gem still works correctly.
 
-## Credits
+Guilherme Reis
 
-Thank you to everybody who has contributed to [CarrierWaveDirect](https://github.com/dwilkie/carrierwave_direct). A special thanks to [nddeluca (Nicholas DeLuca)](https://github.com/nddeluca) who does a great job maintaining this gem. If you'd like to help him out see [#83](https://github.com/dwilkie/carrierwave_direct/issues/83)
+* https://www.worldcode.com.br
 
-## Contributors
-* [geeky-sh](https://github.com/geeky-sh) - Allow filenames with '()+[]' characters
-* [cblunt (Chris Blunt)](https://github.com/cblunt) - Support for passing html options
-* [robyurkowski (Rob Yurkowski)](https://github.com/robyurkowski) - Fix deprecation warnings for Rails 3.2
-* [tylr (Tyler Love)](https://github.com/tylr) - Bug fix
-* [vlado (Vlado Cingel)](https://github.com/vlado) - Properly sanitize filename
-* [travisp (Travis Pew)](https://github.com/travisp) - Compatibility for CarrierWave 0.6.0
-* [jgorset (Johannes Gorset)](https://github.com/jgorset) - Added note about removing 'store_dir' in README
-* [frahugo (Hugo Frappier)](https://github.com/frahugo) - Fix bug where CarrierWaveDirect Validations were being added to non CarrierWaveDirect ActiveRecord models
-* [bak (Benjamin Cullen-Kerney)](https://github.com/bak) - Fix bug where CarrierWaveDirect specific methods were being added to non CarrierWaveDirect ActiveRecord models
-* [rhalff (Rob Halff)](https://github.com/rhalff) - Doc fix
-* [nicknovitski (Nick Novitski)](https://github.com/nicknovitski) - Update old link in README
-* [gabrielengel (Gabriel Engel)](https://github.com/gabrielengel) - Refactor I18n not to use procs
-* [evanlok](https://github.com/evanlok) - Don't be case sensitive with filename extension validation
-* [davesherratt (Dave Sherratt)](https://github.com/davesherratt) - Initial support for Rails 4 strong parameters
-* [kylecrum (Kyle Crum)](https://github.com/kylecrum) - Fix double url encoding bug
-* [rsniezynski](https://github.com/rsniezynski) - Add min file size configuration
-* [philipp-spiess (Philipp Spieß)](https://github.com/philipp-spiess) - Direct fog url bugfix
-* [colinyoung (Colin Young)](https://github.com/colinyoung) - Content-Type support
-* [jkamenik (John Kamenik)](https://github.com/jkamenik) - Content-Type support
-* [filiptepper (Filip Tepper)](https://github.com/filiptepper) - Autoload UUID on heroku
-* [mois3x (Moisés Viloria)](https://github.com/mois3x) and [plentz (Diego Plentz)](https://github.com/plentz) - Allow uploader columns to be named `file`
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
